@@ -1,6 +1,7 @@
 # Ursuppe
 generative audio-visual Installation 
 
+TouchDesigner / Max MSP  
 Total installation runtime: approximately 8 min
 
 URSUPPE creates a space in which analog raw material is infinitely reassembled by an algorithm, striving for an higher order. The basic elements: archaic animation sequences, scratched directly onto film material and experimental orchestra sounds - both composed following a predefined modular vocabulary, resulting in points, lines, particles and transients, timbres, textures. The material is being dissected, distorted, stretched, repeated, contrasted and rearranged by an algorithm - unpredictable and in realtime. When all forms are dissolved, who establishes the context, the artists? The machine, or the mind of the viewer?
