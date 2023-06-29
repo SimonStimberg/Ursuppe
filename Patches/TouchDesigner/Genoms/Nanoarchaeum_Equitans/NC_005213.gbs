@@ -1,0 +1,41 @@
+LOCUS       NC_005213             490885 bp    DNA     circular CON 10-JUN-2013
+DEFINITION  Nanoarchaeum equitans Kin4-M chromosome, complete genome.
+ACCESSION   NC_005213
+VERSION     NC_005213.1  GI:38349555
+DBLINK      Project: 58009
+            BioProject: PRJNA58009
+KEYWORDS    .
+SOURCE      Nanoarchaeum equitans Kin4-M
+  ORGANISM  Nanoarchaeum equitans Kin4-M
+            Archaea; Nanoarchaeota; Nanoarchaeum.
+REFERENCE   1  (bases 1 to 490885)
+  AUTHORS   Waters,E., Hohn,M.J., Ahel,I., Graham,D.E., Adams,M.D.,
+            Barnstead,M., Beeson,K.Y., Bibbs,L., Bolanos,R., Keller,M.,
+            Kretz,K., Lin,X., Mathur,E., Ni,J., Podar,M., Richardson,T.,
+            Sutton,G.G., Simon,M., Soll,D., Stetter,K.O., Short,J.M. and
+            Noordewier,M.
+  TITLE     The genome of Nanoarchaeum equitans: insights into early archaeal
+            evolution and derived parasitism
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 100 (22), 12984-12988 (2003)
+   PUBMED   14566062
+REFERENCE   2  (bases 1 to 490885)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-NOV-2003) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 490885)
+  CONSRTM   NCBI Microbial Genomes Annotation Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUN-2001) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AE017199.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..490885
+                     /organism="Nanoarchaeum equitans Kin4-M"
+                     /mol_type="genomic DNA"
+                     /strain="Kin4-M"
+                     /db_xref="taxon:228908"
+CONTIG      join(AE017199.1:1..490885)
+//

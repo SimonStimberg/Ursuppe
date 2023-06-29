@@ -1,0 +1,7 @@
+source:
+https://ftp.ncbi.nih.gov/genomes/archive/old_refseq/Bacteria/Nanoarchaeum_equitans_Kin4_M_uid58009/
+
+
+
+How to: Download the complete genome for an organism
+https://www.ncbi.nlm.nih.gov/guide/howto/dwn-genome/
